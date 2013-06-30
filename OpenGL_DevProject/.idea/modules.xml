@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OpenGL_Dev/OpenGL_Dev.iml" filepath="$PROJECT_DIR$/OpenGL_Dev/OpenGL_Dev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpenGL_DevProject.iml" filepath="$PROJECT_DIR$/OpenGL_DevProject.iml" />
+    </modules>
+  </component>
+</project>
+
