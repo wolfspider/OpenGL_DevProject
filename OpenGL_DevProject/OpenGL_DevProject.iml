@@ -9,6 +9,11 @@
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
+    <content url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject">
+      <excludeFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject" />
+      <excludeFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/.gradle" />
+      <excludeFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/build" />
+    </content>
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/build" />

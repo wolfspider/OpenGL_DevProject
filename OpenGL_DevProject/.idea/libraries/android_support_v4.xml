@@ -2,6 +2,7 @@
   <library name="android-support-v4">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/OpenGL_Dev/libs/android-support-v4.jar!/" />
+      <root url="jar://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/OpenGL_Dev/libs/android-support-v4.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

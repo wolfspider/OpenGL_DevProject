@@ -20,6 +20,51 @@
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
+    <content url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/OpenGL_Dev">
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/OpenGL_Dev/build/source/r/debug" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/OpenGL_Dev/build/source/aidl/debug" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/OpenGL_Dev/build/source/rs/debug" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/OpenGL_Dev/build/source/buildConfig/debug" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/OpenGL_Dev/build/res/rs/debug" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/OpenGL_Dev/build/source/r/test" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/OpenGL_Dev/build/source/aidl/test" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/OpenGL_Dev/build/source/rs/test" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/OpenGL_Dev/build/source/buildConfig/test" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/OpenGL_Dev/build/res/rs/test" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/OpenGL_Dev/src/debug/aidl" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/OpenGL_Dev/src/debug/assets" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/OpenGL_Dev/src/debug/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/OpenGL_Dev/src/debug/jni" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/OpenGL_Dev/src/debug/rs" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/OpenGL_Dev/src/debug/res" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/OpenGL_Dev/src/debug/resources" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/OpenGL_Dev/src/main/aidl" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/OpenGL_Dev/src/main/assets" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/OpenGL_Dev/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/OpenGL_Dev/src/main/jni" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/OpenGL_Dev/src/main/rs" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/OpenGL_Dev/src/main/res" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/OpenGL_Dev/src/main/resources" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/OpenGL_Dev/src/instrumentTest/aidl" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/OpenGL_Dev/src/instrumentTest/assets" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/OpenGL_Dev/src/instrumentTest/java" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/OpenGL_Dev/src/instrumentTest/jni" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/OpenGL_Dev/src/instrumentTest/rs" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/OpenGL_Dev/src/instrumentTest/res" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/OpenGL_Dev/src/instrumentTest/resources" isTestSource="true" />
+      <excludeFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/OpenGL_Dev" />
+      <excludeFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/OpenGL_Dev/build/apk" />
+      <excludeFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/OpenGL_Dev/build/assets" />
+      <excludeFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/OpenGL_Dev/build/bundles" />
+      <excludeFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/OpenGL_Dev/build/classes" />
+      <excludeFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/OpenGL_Dev/build/dependency-cache" />
+      <excludeFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/OpenGL_Dev/build/exploded-bundles" />
+      <excludeFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/OpenGL_Dev/build/incremental" />
+      <excludeFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/OpenGL_Dev/build/libs" />
+      <excludeFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/OpenGL_Dev/build/manifests" />
+      <excludeFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/OpenGL_Dev/build/symbols" />
+      <excludeFolder url="file://$USER_HOME$/AndroidStudioProjects/OpenGL_DevProject/OpenGL_Dev/build/tmp" />
+    </content>
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/build/source/r/debug" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/build/source/aidl/debug" isTestSource="false" />

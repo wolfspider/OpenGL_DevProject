@@ -82,19 +82,6 @@ public class MyGLRenderer implements GLSurfaceView.Renderer {
 
 class Triangle {
 
-    private final String vertexShaderCode =
-        "attribute vec4 vPosition;" +
-        "void main() {" +
-        "  gl_Position = vPosition;" +
-        "}";
-
-    private final String fragmentShaderCode =
-        "precision mediump float;" +
-        "uniform vec4 vColor;" +
-        "void main() {" +
-        "  gl_FragColor = vColor;" +
-        "}";
-
     private final FloatBuffer vertexBuffer;
     private final int mProgram;
     private int mPositionHandle;
